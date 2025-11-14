@@ -1,0 +1,6 @@
+@VenhanProject_HostAddress = http://localhost:5047
+
+GET {{VenhanProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

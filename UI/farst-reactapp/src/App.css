@@ -1,0 +1,16 @@
+header{
+  background-color:black;
+  padding: 30px;
+  
+
+}
+header center h1{
+  color: blue;
+}
+nav{
+  background-color: blueviolet;
+  padding: 30px;
+}
+nav center h1{
+  color: brown;
+}
